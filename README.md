@@ -1,4 +1,4 @@
-# Martin-GarriX
+# Martin GarriX Page
 
 ![Screenshot Img](./img/screenshot-img.png)
 
@@ -18,5 +18,5 @@ https://dibyaranjan450.github.io/Martin-GarriX/
 
 ## Contributor
 
-- Creator of +X @smrutikant
-- Creator of +X @Dibyaranjan450
+- Creator of +X page @smrutikant
+- Creator of +X page @Dibyaranjan450
