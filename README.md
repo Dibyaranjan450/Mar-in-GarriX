@@ -18,5 +18,5 @@ https://dibyaranjan450.github.io/Martin-GarriX/
 
 ## Contributor
 
-- Creator of +X page @smrutikant
-- Creator of +X page @Dibyaranjan450
+- Creator of +X page [@smrutikant](https://github.com/smrutikant)
+- Creator of +X page [@Dibyaranjan450](https://github.com/Dibyaranjan450)
